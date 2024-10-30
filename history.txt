@@ -1,0 +1,12 @@
+Version 1.2 ( May 17th 2013 )
+---------------------------------------------------------------
+- Updated to work with bbpress group forums at vulneratum's request.
+- Slight changes to formatting and warning added about removing reply textbox.
+
+Version 1.1 ( June 27th 2011 )
+--------------------------------------------------------------
+- Included theme files I forgot to add to initial release.
+
+Version 1.0 ( June 14th 2011 )
+--------------------------------------------------------------
+- Initial Release.
